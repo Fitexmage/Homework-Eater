@@ -12,7 +12,7 @@ NOW, YOU GOT THE CHANCE TO BE THE LEGENDARY MONSTER!
 
 ## Introduction
 
-It is a tiny java game. 
+It is a tiny java game designed when I was a beginner in programming. 
 
 Run "app.java" in "src" to start the game. 
 Click "play", enter your name & age, and choose the option.
